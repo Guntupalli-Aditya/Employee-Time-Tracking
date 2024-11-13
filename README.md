@@ -15,6 +15,8 @@ Employee Time Tracking is a website that allows Heads to track there employee wo
 - Install Node modules using npm install before working with this project
 - MongoDB, ExpresJs and ReactJs technologies are used along with HTML CSS JS
 
+# Link for the app 
+https://frontend-2aap.vercel.app/
 # Preview
 
   ![Preview](https://github.com/user-attachments/assets/d7ed1ed0-cb38-4a42-b4a3-9881333986c6)
